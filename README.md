@@ -1,14 +1,16 @@
-# Hi there! 👋 I'm Vikrant Parmar
-A passionate Full-Stack Developer specializing in Laravel and React.js
+# Hi! I’m Vikrant Parmar
 
-I am a Full-Stack Developer with a focus on modern web development using Laravel (PHP) for back-end and React.js for front-end. I have experience in building responsive, scalable, and secure applications. I love to solve complex problems and continuously improve my skills.
+### Passionate Full-Stack Developer Specializing in Laravel, Codeigniter and React.js
 
-🔭 I’m currently working on building scalable web applications using Laravel and React.js.
-🌱 I’m learning advanced TypeScript and exploring microservices architecture.
+I am a dedicated Full-Stack Developer with expertise in modern web development, leveraging **Laravel (PHP)** for back-end solutions and **React.js** for dynamic front-end interfaces. I have a proven track record of building responsive, scalable, and secure applications. My passion lies in solving complex problems and continuously enhancing my skill set to deliver high-quality software.
+
+🔭 **Current Focus**:  
+I am currently focused on developing scalable web applications utilizing **Laravel** and **React.js**. Additionally, I am expanding my knowledge in **advanced TypeScript** and exploring **microservices architecture** to further enhance my development capabilities.
 
 
+Below skill set enables me to tackle a wide range of projects and deliver comprehensive solutions. I'm always eager to learn and grow in the ever-evolving landscape of web development.
 
-## 🛠 Skills
+### 🛠 Technologies & Skills
 
 **Back-end**: ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 
@@ -89,6 +91,8 @@ I am a Full-Stack Developer with a focus on modern web development using Laravel
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant-parmar&layout=compact&theme=radical)
 
 
+
+Feel free to connect with me to discuss exciting opportunities or collaboration!
 
 <!---
 vikrant-parmar/vikrant-parmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
