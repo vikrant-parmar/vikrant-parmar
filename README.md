@@ -1,6 +1,7 @@
 
 <h1 align="center"> Hi!, I'm Vikrant Parmar </br> </h1>
 <p align="center">Transforming Ideas into Solutions 🚀</p>
+[![Email](https://img.shields.io/badge/Email-vikrant.parmar91@gmail.com-4CAF50.svg)](mailto:vikrant.parmar91@gmail.com)
 
 
 ### Full-Stack Developer Specializing in Laravel,CodeIgniter and React.js
@@ -47,8 +48,8 @@ Skilled in planning, designing, implementing, debugging, and deploying projects,
 ---
 
 ### 📈 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-link)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/vikrantrp/)
+- [![Email](https://img.shields.io/badge/Email-vikrant.parmar91@gmail.com-4CAF50.svg)](mailto:vikrant.parmar91@gmail.com)
 
 
 
