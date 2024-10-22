@@ -10,7 +10,7 @@ I am a passionate and dedicated Full-Stack Developer with extensive experience i
 I am skilled in building **scalable, secure, and high-performance web applications**, and I excel in both server-side and client-side development. My focus is always on delivering high-quality code, creating seamless user experiences, and ensuring projects are completed on time.
 
 ---
-# 🛠 Technologies & Skills
+### 🛠 Technologies & Skills
 
 | **Category**              | **Technologies**                                                                                                                                                     |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -24,7 +24,6 @@ I am skilled in building **scalable, secure, and high-performance web applicatio
 | **Payment Systems**       | ![Stripe](https://img.shields.io/badge/Stripe-%23646EDE.svg?style=flat&logo=stripe&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-%2300457C.svg?style=flat&logo=paypal&logoColor=white) ![2Checkout](https://img.shields.io/badge/2Checkout-%23A2A5A1.svg?style=flat) ![Braintree](https://img.shields.io/badge/Braintree-%23452244.svg?style=flat&logo=braintree&logoColor=white) ![Apple Pay](https://img.shields.io/badge/ApplePay-%23000000.svg?style=flat&logo=apple-pay&logoColor=white) |
 | **Integrations**          | ![Twilio](https://img.shields.io/badge/Twilio-%23F22F46.svg?style=flat&logo=twilio&logoColor=white) ![Sinch](https://img.shields.io/badge/Sinch-%23FFCC33.svg?style=flat) ![Google Maps](https://img.shields.io/badge/Google_Maps-%234285F4.svg?style=flat&logo=google-maps&logoColor=white) ![Apple Maps](https://img.shields.io/badge/Apple_Maps-%23000000.svg?style=flat&logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=white) ![Facebook APIs](https://img.shields.io/badge/Facebook_APIs-%231877F2.svg?style=flat&logo=facebook&logoColor=white) ![Google APIs](https://img.shields.io/badge/Google_APIs-%234285F4.svg?style=flat&logo=google&logoColor=white) |
 
----
 ---
 
 ### 🚀 Professional Experience
